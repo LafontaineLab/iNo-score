@@ -7,7 +7,7 @@ ISPGroup, Universite catholique de Louvain (Belgium)
 http://sites.uclouvain.be/ispgroup/
 
 Denis L.J. Lafontaine (denis.lafontaine@ulb.ac.be)
-RNA Molecule Biology, Universite Libre de Bruxelles (Belgium)
+RNA Molecular Biology, Universite Libre de Bruxelles (Belgium)
 http://www.LafontainLab.com
 http://www.RibosomalProteins.com
 http://www.RibosomeSynthesis.com
